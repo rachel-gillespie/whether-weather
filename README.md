@@ -45,7 +45,7 @@ This project shows an example of a weather web app that is developed using HTML,
 
 **Project Maintainer:** Rachel Gillespie  
 **GitHub:** [@rachel-gillespie](https://github.com/rachel-gillespie)  
-**Email:** gillespierachel74@outlook.com
+**Email:** [rachel.gillespie7400@gmail.com](mailto:rachel.gillespie7400@gmail.com)
 
 Feel free to reach out if you have questions about the project or encounter any issues!
 
